@@ -1,4 +1,4 @@
-### TableTop Simulator Downloader
+# TableTop Simulator Downloader
 
 This is a (very) simple downloader for board games defined for TableTop Simulator.
 
