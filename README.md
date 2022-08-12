@@ -13,4 +13,6 @@ This is a (very) simple downloader for board games defined for TableTop Simulato
 
 python TTS_dumper.py "./2827229184.json"
 
-Wait! If you see, at the end of the excecution, that there have been errors, excecute the code one or two more times. It is still fails, probably you will need to manually check the problem, usually consisting of a mising file on the server itself (it has happened).
+Finally... Wait! (depending on the game, it may take a few minutes) 
+
+If you see, at the end of the excecution, that there have been errors, excecute the code one or two more times. It is still fails, probably you will need to manually check the problem, usually consisting of a mising file on the server itself (it has happened).
